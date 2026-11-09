@@ -1,0 +1,3 @@
+* text=auto
+# Keep Windows batch files executable in GitHub source ZIPs as well as clones.
+*.cmd -text whitespace=cr-at-eol
